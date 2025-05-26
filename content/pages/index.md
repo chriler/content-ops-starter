@@ -8,10 +8,14 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      Our business scope is advertising, architecture, construction and interior
+      design. Advertising application including indoor and outdoor application.
+      We also provide planning, architecture, construction and interior design
+      and built fabrication. Our company also specializing in producing for
+      exhibition and event.
+
+
     actions:
       - label: Get started
         altText: ''
