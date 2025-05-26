@@ -7,7 +7,7 @@ sections:
       text: Hi There
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: PT. Awan Jumpa Langit established at 2012.
     text: >+
       Our business scope is advertising, architecture, construction and interior
       design. Advertising application including indoor and outdoor application.
